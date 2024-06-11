@@ -30,3 +30,8 @@ Open the project's folder in your code editor:
 code .
 ```
 
+Create a new `index.html` file using the following command: 
+
+```bash
+touch index.html
+```
