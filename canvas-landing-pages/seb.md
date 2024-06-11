@@ -1,1 +1,1 @@
-# ![[tktk Module Name]](./assets/tktk-hero.png)
+# ![HTML Lab](./assets/tktk-hero.png)
