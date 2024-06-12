@@ -42,9 +42,19 @@ Below the previous `section`, create a new `section` element. This new `section`
 
 ### Exercise 5: Create nested divisions
 
-Below the previous `section`, create a `div` element. This new `div` element should contain: 
-- a `div` element, which itself contains a `p` element with the text "This is inside a nested div!"
-- another `div` element, which contains a `p` element with the text "This is inside another nested div!"
+For this exercise, we'll be using [Lorem Picsum](https://picsum.photos/) to generate placeholder images. By perusing the documentation, we can see that grabbing a random image from the site is fairly straightforward. We concatenate the base url `https://picsum.photos/` with a number that represents a pixel size, such as `500`. 
+
+We can then add that URL to the `href` attribute of an `img` element, and we'll get back a randomized image that is 500x500 pixels in size. 
+
+Below the previous `section`, create a `div` element. This new `div` element should contain two `div` elements. 
+
+The first child `div` should contain: 
+- a `p` element with the text "These photos are inside a nested div!
+- two images that grab a 200x200 pixel photo from Lorem Picsum. Each `img` element should also include an `alt` attribute with the text "placeholder photo". 
+
+The second child `div` should contain: 
+- a `p` element with the text "This larger photo is inside another nested div!"
+- an image that grabs a 400x400 pixel photo from Lorem Picsum. The `img` element should also include an `alt` attribute with the text "large placeholder photo"
 
 ### Exercise 6: 
 
