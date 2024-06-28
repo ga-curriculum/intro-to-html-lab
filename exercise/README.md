@@ -4,6 +4,10 @@
 
 This lab provides an opportunity to practice creating and nesting HTML elements, along with gaining more familiarity with how block and inline elements interact in the browser.
 
+Your final UI in the browser will look like the following image. 
+
+![Solution UI Image](./assets/solution-ui.png)
+
 ### A quick note before you dive in
 
 If you get stuck during the lab, we recommend revisiting the lesson materials first. They're designed to provide you with the information and examples that will help you complete the exercises.
