@@ -1,4 +1,4 @@
-# ![HTML Lab - Exercise](./assets/hero.png)
+# ![HTML Lab - Exercise](./assets/html-lab-exercise.png)
 
 ## Introduction
 

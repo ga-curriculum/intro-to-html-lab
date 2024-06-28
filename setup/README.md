@@ -1,4 +1,4 @@
-# ![HTML Lab - Setup](./assets/hero.png)
+# ![HTML Lab - Setup](./assets/html-lab-setup.png)
 
 ## Setup
 

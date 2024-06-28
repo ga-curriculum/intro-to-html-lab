@@ -1,16 +1,16 @@
-# ![HTML Lab](./assets/tktk-hero.png)
+# ![Intro to HTML Lab](./assets/html-lab-header.png)
 
 ## About
 
-tktk
+This lab provides an opportunity to practice creating and nesting HTML elements, along with gaining more familiarity with how block and inline elements interact in the browser.
 
 ## Prerequisites
 
-- tktk
+- Intro to HTML
 
 ## Time to complete
 
-Estimated time to complete core lab exercise: **tktk min**
+Estimated time to complete core lab exercise: **60 min**
 
 ## Content
 
@@ -19,8 +19,7 @@ Estimated time to complete core lab exercise: **tktk min**
 
 ## Solution code
 
-🏁 [tktk Solution code](#tktk-external-repo-link-url)
-
+🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/intro-to-html-lab-solution)
 
 ## Internal resources
 
