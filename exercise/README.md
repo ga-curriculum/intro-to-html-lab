@@ -18,7 +18,7 @@ Before we get started, let's set up our boilerplate.
 
 1. Open `index.html`.
 2. Type `!` and press `Tab` to create the standard HTML boilerplate.
-3. Change the document's title to "HTML Lab."
+3. Change the document's title to "Intro to HTML Lab."
 
 ### Exercise 1: Create a header
 
