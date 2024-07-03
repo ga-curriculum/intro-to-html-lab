@@ -40,7 +40,7 @@ Before we get started, let's set up our boilerplate.
 1. Below the `nav`, create a `section` element.
 2. Inside the `section`, add:
    - An `h3` with the text "This section has a button!"
-   - A `p` with the text "This is a button:", followed by a `button` with the text "Click me!" (the button should display **_inline_** and be on the same line as the text). The button does not need to preform any actions when clicked.
+   - A `p` with the text "This is a button:", followed by a `button` with the text "Click me!" (the button should display **_inline_** and be on the same line as the text). The button does not need to perform any actions when clicked.
 
 ### Exercise 4: Create a section for an unordered list
 
