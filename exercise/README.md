@@ -52,7 +52,7 @@ Before we get started, let's set up our boilerplate.
      - Second `li`: "This is the second list item"
      - Third `li`: "This is the last list item and it has a link". Wrap the word "link" in an anchor element, and give it an `href` attribute pointing to [Google](http://www.google.com).
 
-### Exercise 5: Create nested divisions with images
+### Exercise 5: Create nested `div`s with images
 
 For this exercise, we'll be using [Lorem Picsum](https://picsum.photos/) to generate placeholder images. By perusing the documentation, we can see that grabbing a random image from the site is fairly straightforward. We combine the base url `https://picsum.photos/` with a number that represents a dimension in pixels, such as `500`.
 
