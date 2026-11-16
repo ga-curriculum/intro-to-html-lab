@@ -19,7 +19,7 @@ Estimated time to complete core lab exercise: **60 min**
 
 ## Solution code
 
-🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/intro-to-html-lab-solution)
+🏁 [Solution code](https://github.com/ga-curriculum/intro-to-html-lab-solution)
 
 ## Internal resources
 
@@ -29,4 +29,4 @@ Estimated time to complete core lab exercise: **60 min**
 
 ---
 
-**Find a 👾 bug 👾 or have suggestions? [Let us know](https://git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/blob/main/module-feedback.md)!**
+**Find a 👾 bug 👾 or have suggestions? [Let us know](https://ga-curriculum.github.io/universal-resources-internal/module-feedback.html)!**
